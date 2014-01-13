@@ -2,4 +2,3 @@ include setup.py
 include README.md
 recursive-include aroi *.py
 recursive-include test *.py
-graft templates
